@@ -2,8 +2,8 @@
 
 # 🌌 Infinity Platform
 ### Where Advanced Engineering Meets Artificial Intelligence
-####Builded With React.JSX
-##### <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=By+Mahmoud+Elnagar">
+#### Builded With React.JSX
+##### <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=30&pause=1000&color=ff0000&center=true&vCenter=true&width=500&lines=By+Mahmoud+Elnagar">
 ###### <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Still+Building">
 </p>
   
