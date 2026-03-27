@@ -2,7 +2,9 @@
 
 # 🌌 Infinity Platform
 ### Where Advanced Engineering Meets Artificial Intelligence
+####Builded With React.JSX
 ##### <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=By+Mahmoud+Elnagar">
+###### <img src="https://readme-typing-svg.demolab.com?font=Cairo&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Still+Building">
 </p>
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Developer;AI+Engineering+Enthusiast;JARVIS+Creator;Problem+Solver)](https://git.io/typing-svg)
