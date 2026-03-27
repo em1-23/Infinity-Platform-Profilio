@@ -1,8 +1,12 @@
+// import Skill from './Skill'; // استيراد الملف
+import "./index.css";
+
 function App() {
-  return (
-    <div>
-      <h1>Hello React!</h1>
-    </div>
-  )
+    return (
+        <div className="container">
+            
+        </div>
+    );
 }
-export default App
+
+export default App;
